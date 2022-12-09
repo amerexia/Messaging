@@ -3,4 +3,4 @@ An iOS SwiftUI messaging app that allows users to schedule messages to be sent t
 
 ## Screenshot
 
-![](assets/Screenshots/Simulator_ScreenShot.png)
+![](Screenshots/Simulator_ScreenShot.png)
